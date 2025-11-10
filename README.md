@@ -1,58 +1,63 @@
-<!-- Header / Banner -->
+<h1 align="center">👋 Hi, I'm <b>Sameer Chavan</b></h1>
 <p align="center">
-  <img src="https://samxengineer-docs.onrender.com/assets/logo.png" width="140" alt="SAMxENGINEER logo">
-</p>
-
-<h1 align="center">👋 Hi, I'm <b>Sameer Chavan</b> (SAMxENGINEER)</h1>
-<p align="center">
-  <b>AI Engineer • Deep Learning Researcher • Full Stack Developer</b><br>
+  <b>AI Engineer • Deep Learning Researcher • ML Developer</b><br>
   <a href="https://samxengineer-docs.onrender.com" target="_blank">🌐 Portfolio & Research Archive</a> |
-  <a href="mailto:sameerchavan.ai@gmail.com">📧 Contact</a> |
-  <a href="https://linkedin.com/in/sameerchavan-ai" target="_blank">💼 LinkedIn</a>
+  <a href="mailto:chavansameer930@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/sameer-chavan-6ba48b2b7" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I’m an **Artificial Intelligence Engineer** passionate about designing intelligent, explainable, and deployable machine learning systems.  
-My work focuses on **medical imaging, computer vision, natural language processing, and generative AI**, driven by a balance between **research depth and real-world impact**.
+I’m an **Artificial Intelligence and Machine Learning Engineer** with a deep interest in building **intelligent, explainable, and scalable systems**.  
+My expertise spans **medical imaging, computer vision, natural language processing, and data analytics**, focusing on turning research-driven ideas into deployable real-world solutions.
 
-💡 I believe in building **transparent, efficient, and scalable** AI systems — from prototypes to production.  
-This GitHub serves as the **technical backbone** of my documentation site:  
-👉 [**samxengineer-docs.onrender.com**](https://samxengineer-docs.onrender.com)
+> “Engineering intelligence is about designing systems that extend human understanding, not replace it.”
 
 ---
 
-## 🔬 Research & Focus Areas
+## 🔬 Current Research Focus
 
-- 🧩 **Medical Imaging AI** – Disease detection using MRI, X-ray, and EEG analysis  
-- 🧠 **Deep Learning Systems** – CNN, Autoencoders, Transformers, and segmentation models  
-- ⚙️ **RAG & LangChain Applications** – Intelligent document-based assistants  
-- 🔍 **Model Optimization** – Efficient architectures for edge deployment  
-- 📊 **Data Science & Analytics** – Statistical modeling, EDA, and interpretability
+- 🧩 **Medical Imaging AI** – Deep learning for MRI, EEG, and X-ray diagnostics  
+- 🩺 **Healthcare AI Systems** – Clinical decision support using machine learning  
+- ⚙️ **Model Optimization** – Lightweight architectures for efficient inference  
+- 🧠 **Generative & RAG Models** – Intelligent retrieval-augmented applications  
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 🧠 **[BrainTumor AI](https://github.com/samxengineer/BrainTumor-AI)** | MRI-based brain tumor classification and segmentation pipeline | TensorFlow, OpenCV, Streamlit |
-| 🩺 **[MedAI](https://github.com/samxengineer/MedAI)** | Modular medical imaging framework with classification and segmentation models | PyTorch, Flask |
-| 📘 **[ExamPrompt AI](https://github.com/samxengineer/ExamPrompt-AI)** | RAG-powered intelligent exam preparation assistant | Flask, LangChain, Groq API |
-| ⚙️ **[LangGame](https://github.com/samxengineer/LangGame)** | Interactive NPC dialogue system powered by LangGraph & Godot | Python, LangGraph, Godot |
-| 🧪 **CreationGround** | Experimental sandbox for AI & ML prototypes | ML, EDA, Model Testing |
+|----------|--------------|-------------|
+| 🧠 [**BrainTumor AI**](https://github.com/samxengineer/BrainTumor-AI) | Deep learning workflow for **MRI-based brain tumor classification & segmentation** | TensorFlow, OpenCV, Streamlit |
+| 🩺 [**MedAI**](https://github.com/samxengineer/MedAI) | Comprehensive **medical imaging suite** integrating classification, validation, and segmentation | PyTorch, Flask |
+| 📘 [**ExamPrompt AI**](https://github.com/samxengineer/ExamPrompt-AI) | RAG-based **exam preparation assistant** powered by LangChain and Groq LLM | LangChain, Flask, Firebase |
+| 🧪 [**CreationGround**](https://github.com/samxengineer/CreationGround) | My **experimental ML sandbox** for concept testing and workflow refinement | Scikit-learn, EDA, Prototyping |
+| 🩸 [**Lung Cancer Detection**](https://github.com/samxengineer/Lung-Cancer-AI) | Machine learning and CNN-based approach for **lung disease classification** | TensorFlow, NumPy, Matplotlib |
+| 🖼️ [**ImgTechAI**](https://github.com/samxengineer/ImgTechAI) | **Web-based image processing & CV application** with real-time no-code tools | Streamlit, OpenCV, NumPy |
 
 ---
 
-## 🧰 Technical Stack
+## 🧰 Tech Stack & Tools
 
 **Languages:** Python, JavaScript, C++, SQL  
 **AI Frameworks:** TensorFlow, PyTorch, LangChain, Hugging Face  
 **Backend:** Flask, FastAPI, Firebase, Streamlit  
-**Tools & Deployment:** Docker, Render, Git, Firestore  
-**Core Skills:** Model Training, RAG Systems, Computer Vision, NLP, Data Engineering  
+**Deployment:** Docker, Render, Firestore  
+**Specialties:** Model Training • Computer Vision • RAG Systems • Data Engineering  
+
+---
+
+## 🎓 Certifications & Achievements
+
+🎖️ **IEEE ICACCM 2024** – Published research paper: *“AI-Driven Brain Tumor Detection using CNNs”*  
+🏆 **Uttarakhand Innovation Festival 2024** – *Business Idea Award Winner*  
+📘 **Great Learning Academy** – Certified in *Machine Learning, Data Science, and AI*  
+💻 **IIT Bombay – Arduino Program** – Embedded Systems & IoT  
+🧩 **TensorFlow for Deep Learning Bootcamp** – Udemy Advanced Certification  
+
+Explore full list here → [**Certifications & Research Archive**](https://samxengineer-docs.onrender.com/Certifications/)
 
 ---
 
@@ -69,30 +74,18 @@ This GitHub serves as the **technical backbone** of my documentation site:
 
 ---
 
-## 🎓 Certifications & Achievements
-
-🎖️ **IEEE ICACCM 2024** – Published Paper on CNN-based Brain Tumor Detection  
-🏆 **Uttarakhand Innovation Festival 2024** – Business Idea Award Winner  
-💼 **TAAL Internship (Aerospace)** – 6-Month Industrial Training Program  
-📜 **Great Learning Academy** – Certified in ML, AI, and Data Science  
-🎯 **IIT Bombay Arduino Program** – Embedded Systems Certification  
-
-For a full archive, visit the **[Certifications & Research Section →](https://samxengineer-docs.onrender.com/Certifications/)**  
-
----
-
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://samxengineer-docs.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sameerchavan-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sameerchavan.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sameer-chavan-6ba48b2b7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chavansameer930@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/samxengineer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“This is my living archive — where code meets research and ideas evolve into impact.”</i><br>
-  <b>— Sameer Chavan</b>
+  <i>“This GitHub serves as my living archive — where research, engineering, and curiosity converge.”</i><br>
+  <b>— Sameer Chavan (SAMxENGINEER)</b>
 </p>

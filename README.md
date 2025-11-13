@@ -69,19 +69,6 @@ Each repo here represents experimentation, problem-solving, and my growth as an 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-render.onrender.com/api?username=SAMxENGINEER&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats-render.onrender.com?user=SAMxENGINEER&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-render.onrender.com/api/top-langs/?username=SAMxENGINEER&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🧭 Learning Focus
 
 > “Don’t aim to look smart — aim to understand deeply.”

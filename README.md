@@ -69,15 +69,7 @@ Each repo here represents experimentation, problem-solving, and my growth as an 
 
 ---
 
-## 🧭 Learning Focus
-
-> “Don’t aim to look smart — aim to understand deeply.”
-
-Right now I’m exploring:
-- RAG pipelines with LangChain + Groq  
-- Medical AI segmentation workflows  
-- Streamlined documentation and reproducible research setups  
-
+<div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=SAMxENGINEER&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=SAMxENGINEER&theme=tokyonight&hide_border=true" height="170" /> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMxENGINEER&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div>
 ---
 
 ## 🌐 Connect With Me

@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sameer Chavan (SAMxENGINEER)
+# 👋 Hey, I'm Sameer (SAMxENGINEER)
 
 > 🧠 AI Developer in Training | ML • DL • RAG Systems  
 > Currently exploring how to build intelligent and efficient systems that learn, reason, and interact.
@@ -69,8 +69,6 @@ Each repo here represents experimentation, problem-solving, and my growth as an 
 
 ---
 
-<div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=SAMxENGINEER&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com?user=SAMxENGINEER&theme=tokyonight&hide_border=true" height="170" /> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMxENGINEER&layout=compact&theme=tokyonight&hide_border=true" height="170" /> </div>
----
 
 ## 🌐 Connect With Me
 <p>
